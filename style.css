@@ -4,6 +4,7 @@ html {
 }
 
 body {
+  background-color: green;
   height: 95%;
   width: 100%;
   font-family: sans-serif;
@@ -27,7 +28,10 @@ body {
 }
 
 p{
+  border-style: dotted;
   text-align: center;
-  margin: 3px 0;
-  font-size: 17px;
+  border-top-left-radius: 20%;
+  border-bottom-right-radius: 20%;
+  font-size: 2em;
+ 
 }
